@@ -1,6 +1,6 @@
-test_variable = "changing the first line of code"
 
-class BankAccount
+at class BankAccount
+
   attr_reader :account_number,
               :secret_code,
               :balance
